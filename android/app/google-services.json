@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "755869531750",
+    "project_id": "sunshine-cdefb",
+    "storage_bucket": "sunshine-cdefb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755869531750:android:78afc66c103966ca8af7a7",
+        "android_client_info": {
+          "package_name": "com.example.sunshine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755869531750-ks8tci6p0k6dpb38q287bvnph3o075et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sunshine",
+            "certificate_hash": "9363a21446ba3371b8ed5b69dbdb45a363e8a9a1"
+          }
+        },
+        {
+          "client_id": "755869531750-0tkg3qca4qba7nuvtcc25b3993i69qf3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeag0-wyf6wHkMBFXEsYrNDy5JmFI9q1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755869531750-0tkg3qca4qba7nuvtcc25b3993i69qf3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
